@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/konghaomin/Development/Repos/Github/QQChatRecordMhtToHtmlTool/macOS/QQMhtToHtml_dNetCore2_2_macOS/QQMhtToHtml_dNetCore_macOS/QQMhtToHtml_dNetCore_macOS.csproj": {}
+  },
+  "projects": {
+    "/Users/konghaomin/Development/Repos/Github/QQChatRecordMhtToHtmlTool/macOS/QQMhtToHtml_dNetCore2_2_macOS/QQMhtToHtml_dNetCore_macOS/QQMhtToHtml_dNetCore_macOS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/konghaomin/Development/Repos/Github/QQChatRecordMhtToHtmlTool/macOS/QQMhtToHtml_dNetCore2_2_macOS/QQMhtToHtml_dNetCore_macOS/QQMhtToHtml_dNetCore_macOS.csproj",
+        "projectName": "QQMhtToHtml_dNetCore_macOS",
+        "projectPath": "/Users/konghaomin/Development/Repos/Github/QQChatRecordMhtToHtmlTool/macOS/QQMhtToHtml_dNetCore2_2_macOS/QQMhtToHtml_dNetCore_macOS/QQMhtToHtml_dNetCore_macOS.csproj",
+        "packagesPath": "/Users/konghaomin/.nuget/packages/",
+        "outputPath": "/Users/konghaomin/Development/Repos/Github/QQChatRecordMhtToHtmlTool/macOS/QQMhtToHtml_dNetCore2_2_macOS/QQMhtToHtml_dNetCore_macOS/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/konghaomin/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

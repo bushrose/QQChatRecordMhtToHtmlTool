@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{3F69B9B4-35E8-4FED-B9DB-2FBE27994F76}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="QQMhtToHtml_dNetCore_macOS/Program.cs">
+    <Files>
+      <File FileName="QQMhtToHtml_dNetCore_macOS/Program.cs" Line="76" Column="35" />
+      <File FileName="QQMhtToHtml_dNetCore_macOS/QqMhtToHtml.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="QQMhtToHtml_dNetCore_macOS" expanded="True">
+            <Node name="QQMhtToHtml_dNetCore_macOS" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.QQMhtToHtml__dNetCore__macOS PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <AuthorInfo Name="Haomin Kong" Email="a645162@qq.com" Copyright="Gurain" Company="Gurain" Trademark="Gurain" />
+</Properties>

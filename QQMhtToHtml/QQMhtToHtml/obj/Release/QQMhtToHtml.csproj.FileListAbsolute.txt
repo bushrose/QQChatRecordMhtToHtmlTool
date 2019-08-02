@@ -1,0 +1,8 @@
+Y:\Development\Repos\Github\QQChatRecordMhtToHtmlTool\QQMhtToHtml\QQMhtToHtml\bin\Release\QQMhtToHtml.exe
+Y:\Development\Repos\Github\QQChatRecordMhtToHtmlTool\QQMhtToHtml\QQMhtToHtml\bin\Release\QQMhtToHtml.pdb
+Y:\Development\Repos\Github\QQChatRecordMhtToHtmlTool\QQMhtToHtml\QQMhtToHtml\obj\Release\QQMhtToHtml.csprojAssemblyReference.cache
+Y:\Development\Repos\Github\QQChatRecordMhtToHtmlTool\QQMhtToHtml\QQMhtToHtml\obj\Release\QQMhtToHtml.Properties.Resources.resources
+Y:\Development\Repos\Github\QQChatRecordMhtToHtmlTool\QQMhtToHtml\QQMhtToHtml\obj\Release\QQMhtToHtml.csproj.GenerateResource.cache
+Y:\Development\Repos\Github\QQChatRecordMhtToHtmlTool\QQMhtToHtml\QQMhtToHtml\obj\Release\QQMhtToHtml.csproj.CoreCompileInputs.cache
+Y:\Development\Repos\Github\QQChatRecordMhtToHtmlTool\QQMhtToHtml\QQMhtToHtml\obj\Release\QQMhtToHtml.exe
+Y:\Development\Repos\Github\QQChatRecordMhtToHtmlTool\QQMhtToHtml\QQMhtToHtml\obj\Release\QQMhtToHtml.pdb

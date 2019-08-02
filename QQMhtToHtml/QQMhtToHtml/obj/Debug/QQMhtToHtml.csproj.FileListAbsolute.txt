@@ -1,0 +1,11 @@
+D:\C#Project\QQMhtToHtml\QQMhtToHtml\bin\Debug\QQMhtToHtml.exe
+D:\C#Project\QQMhtToHtml\QQMhtToHtml\bin\Debug\QQMhtToHtml.pdb
+D:\C#Project\QQMhtToHtml\QQMhtToHtml\obj\Debug\ResolveAssemblyReference.cache
+D:\C#Project\QQMhtToHtml\QQMhtToHtml\obj\Debug\QQMhtToHtml.exe
+D:\C#Project\QQMhtToHtml\QQMhtToHtml\obj\Debug\QQMhtToHtml.pdb
+Y:\Development\Repos\Github\QQChatRecordMhtToHtmlTool\QQMhtToHtml\QQMhtToHtml\bin\Debug\QQMhtToHtml.exe
+Y:\Development\Repos\Github\QQChatRecordMhtToHtmlTool\QQMhtToHtml\QQMhtToHtml\bin\Debug\QQMhtToHtml.pdb
+Y:\Development\Repos\Github\QQChatRecordMhtToHtmlTool\QQMhtToHtml\QQMhtToHtml\obj\Debug\QQMhtToHtml.csprojAssemblyReference.cache
+Y:\Development\Repos\Github\QQChatRecordMhtToHtmlTool\QQMhtToHtml\QQMhtToHtml\obj\Debug\QQMhtToHtml.csproj.CoreCompileInputs.cache
+Y:\Development\Repos\Github\QQChatRecordMhtToHtmlTool\QQMhtToHtml\QQMhtToHtml\obj\Debug\QQMhtToHtml.exe
+Y:\Development\Repos\Github\QQChatRecordMhtToHtmlTool\QQMhtToHtml\QQMhtToHtml\obj\Debug\QQMhtToHtml.pdb

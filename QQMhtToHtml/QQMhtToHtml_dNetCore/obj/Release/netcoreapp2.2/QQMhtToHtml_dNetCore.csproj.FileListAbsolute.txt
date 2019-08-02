@@ -1,0 +1,11 @@
+Y:\Development\Repos\Github\QQChatRecordMhtToHtmlTool\QQMhtToHtml\QQMhtToHtml_dNetCore\bin\Release\netcoreapp2.2\QQMhtToHtml_dNetCore.deps.json
+Y:\Development\Repos\Github\QQChatRecordMhtToHtmlTool\QQMhtToHtml\QQMhtToHtml_dNetCore\bin\Release\netcoreapp2.2\QQMhtToHtml_dNetCore.runtimeconfig.json
+Y:\Development\Repos\Github\QQChatRecordMhtToHtmlTool\QQMhtToHtml\QQMhtToHtml_dNetCore\bin\Release\netcoreapp2.2\QQMhtToHtml_dNetCore.runtimeconfig.dev.json
+Y:\Development\Repos\Github\QQChatRecordMhtToHtmlTool\QQMhtToHtml\QQMhtToHtml_dNetCore\bin\Release\netcoreapp2.2\QQMhtToHtml_dNetCore.dll
+Y:\Development\Repos\Github\QQChatRecordMhtToHtmlTool\QQMhtToHtml\QQMhtToHtml_dNetCore\bin\Release\netcoreapp2.2\QQMhtToHtml_dNetCore.pdb
+Y:\Development\Repos\Github\QQChatRecordMhtToHtmlTool\QQMhtToHtml\QQMhtToHtml_dNetCore\obj\Release\netcoreapp2.2\QQMhtToHtml_dNetCore.csprojAssemblyReference.cache
+Y:\Development\Repos\Github\QQChatRecordMhtToHtmlTool\QQMhtToHtml\QQMhtToHtml_dNetCore\obj\Release\netcoreapp2.2\QQMhtToHtml_dNetCore.csproj.CoreCompileInputs.cache
+Y:\Development\Repos\Github\QQChatRecordMhtToHtmlTool\QQMhtToHtml\QQMhtToHtml_dNetCore\obj\Release\netcoreapp2.2\QQMhtToHtml_dNetCore.AssemblyInfoInputs.cache
+Y:\Development\Repos\Github\QQChatRecordMhtToHtmlTool\QQMhtToHtml\QQMhtToHtml_dNetCore\obj\Release\netcoreapp2.2\QQMhtToHtml_dNetCore.AssemblyInfo.cs
+Y:\Development\Repos\Github\QQChatRecordMhtToHtmlTool\QQMhtToHtml\QQMhtToHtml_dNetCore\obj\Release\netcoreapp2.2\QQMhtToHtml_dNetCore.dll
+Y:\Development\Repos\Github\QQChatRecordMhtToHtmlTool\QQMhtToHtml\QQMhtToHtml_dNetCore\obj\Release\netcoreapp2.2\QQMhtToHtml_dNetCore.pdb

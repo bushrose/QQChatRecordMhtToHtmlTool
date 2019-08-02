@@ -1,0 +1,15 @@
+Y:\Development\Repos\Github\QQChatRecordMhtToHtmlTool\QQMhtToHtml\WPFApp\bin\Debug\WPFApp.exe.config
+Y:\Development\Repos\Github\QQChatRecordMhtToHtmlTool\QQMhtToHtml\WPFApp\bin\Debug\WPFApp.exe
+Y:\Development\Repos\Github\QQChatRecordMhtToHtmlTool\QQMhtToHtml\WPFApp\bin\Debug\WPFApp.pdb
+Y:\Development\Repos\Github\QQChatRecordMhtToHtmlTool\QQMhtToHtml\WPFApp\obj\Debug\WPFApp.csprojAssemblyReference.cache
+Y:\Development\Repos\Github\QQChatRecordMhtToHtmlTool\QQMhtToHtml\WPFApp\obj\Debug\MainWindow.g.cs
+Y:\Development\Repos\Github\QQChatRecordMhtToHtmlTool\QQMhtToHtml\WPFApp\obj\Debug\App.g.cs
+Y:\Development\Repos\Github\QQChatRecordMhtToHtmlTool\QQMhtToHtml\WPFApp\obj\Debug\WPFApp_MarkupCompile.cache
+Y:\Development\Repos\Github\QQChatRecordMhtToHtmlTool\QQMhtToHtml\WPFApp\obj\Debug\WPFApp_MarkupCompile.lref
+Y:\Development\Repos\Github\QQChatRecordMhtToHtmlTool\QQMhtToHtml\WPFApp\obj\Debug\MainWindow.baml
+Y:\Development\Repos\Github\QQChatRecordMhtToHtmlTool\QQMhtToHtml\WPFApp\obj\Debug\WPFApp.g.resources
+Y:\Development\Repos\Github\QQChatRecordMhtToHtmlTool\QQMhtToHtml\WPFApp\obj\Debug\WPFApp.csproj.GenerateResource.cache
+Y:\Development\Repos\Github\QQChatRecordMhtToHtmlTool\QQMhtToHtml\WPFApp\obj\Debug\WPFApp.csproj.CoreCompileInputs.cache
+Y:\Development\Repos\Github\QQChatRecordMhtToHtmlTool\QQMhtToHtml\WPFApp\obj\Debug\WPFApp.exe
+Y:\Development\Repos\Github\QQChatRecordMhtToHtmlTool\QQMhtToHtml\WPFApp\obj\Debug\WPFApp.pdb
+Y:\Development\Repos\Github\QQChatRecordMhtToHtmlTool\QQMhtToHtml\WPFApp\obj\Debug\QQMhtToHtml.Properties.Resources.resources

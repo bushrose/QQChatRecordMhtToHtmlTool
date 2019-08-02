@@ -1,0 +1,12 @@
+将聊天记录文件放到本工具同级目录，并进入cmd：
+1.
+
+QQMhtToHtml.exe QQ记录.mht getimg
+
+
+2.
+
+QQMhtToHtml.exe QQ记录.mht gethtml
+
+
+推荐使用GUI版，即QQMhtToHtml_GUI.exe

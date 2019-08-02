@@ -1,0 +1,38 @@
+﻿<Window x:Class="QQMhtToHtml.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:QQMhtToHtml"
+        mc:Ignorable="d"
+        Title="QQ消息记录Mht文件转Html文件-DearKoala" Height="595.477" Width="500.114" ResizeMode="CanMinimize" AllowDrop="True" Drop="Window_Drop" Loaded="Window_Loaded">
+    <Grid>
+        <Button x:Name="button_Start" Content="执行" HorizontalAlignment="Left" Margin="158,468,0,0" VerticalAlignment="Top" Width="176" Height="58" FontSize="24" Click="Button_Start_Click"/>
+        <Label x:Name="label2" Content="本程序由孔昊旻(DearKoala)使用CSDN大神number321提供的代码进行修改优化制作。" HorizontalAlignment="Center" Margin="10,531,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label3" Content="致 月" HorizontalAlignment="Left" Margin="424,79,0,0" VerticalAlignment="Top" FontSize="18" Foreground="#FF019239"/>
+        <TextBlock HorizontalAlignment="Center" Margin="10,10,0,0" TextWrapping="Wrap" Text="如果你和 她 的聊天记录太多(主要是图片)，会导致mht文件非常的大，浏览器直接崩溃，我们只好将其转换为Html这种格式，他有个特点，不需要在打开文件的时候解码图片，提前处理完图片，而且，现在的浏览器的都是看到哪里加载那里的图片，不会出现大文件直接卡死浏览器。" VerticalAlignment="Top" Height="64" Width="470"/>
+        <Border x:Name="boader" BorderThickness="1" HorizontalAlignment="Left" Height="364" Margin="10,81,0,0" VerticalAlignment="Top" Width="477">
+            <Grid Margin="-2,0,-1,-1">
+                <Label x:Name="label" Content="mht文件路径:" HorizontalAlignment="Left" Margin="3,0,0,0" VerticalAlignment="Top"/>
+                <TextBox x:Name="mhtPathTextBox" HorizontalAlignment="Left" Height="23" Margin="3,30,-8,0" TextWrapping="Wrap" Text="C:\月\月.mht" VerticalAlignment="Top" Width="469" VerticalContentAlignment="Center"/>
+                <Label x:Name="label1" Content="输出目录路径:" HorizontalAlignment="Left" Margin="3,58,0,0" VerticalAlignment="Top"/>
+                <CheckBox x:Name="checkBox_tosourcedir" Content="输出至源目录" HorizontalAlignment="Left" Margin="133,63,0,0" VerticalAlignment="Top" IsChecked="True"/>
+                <TextBox x:Name="outputPathTextBox" Height="23" Margin="3,88,-6,0" TextWrapping="Wrap" VerticalAlignment="Top" VerticalContentAlignment="Center" HorizontalAlignment="Left" Width="469"/>
+                <Button x:Name="button_selectPath1" Content="..." HorizontalAlignment="Left" Margin="92,3,0,0" VerticalAlignment="Top" Width="25" Click="Button_selectPath1_Click"/>
+                <CheckBox x:Name="checkBox_outputPic" Content="输出图片" HorizontalAlignment="Left" Margin="19,163,0,0" VerticalAlignment="Top" IsChecked="True"/>
+                <CheckBox x:Name="checkBox_opendir" Content="任务完成后打开目录" HorizontalAlignment="Left" Margin="19,192,0,0" VerticalAlignment="Top"/>
+                <CheckBox x:Name="checkBox_openwebbroswer" Content="任务完成后使用默认浏览器打开Html文件" HorizontalAlignment="Left" Margin="19,221,0,0" VerticalAlignment="Top"/>
+                <CheckBox x:Name="checkBox_del" Content="执行完成任务后删除源文件" HorizontalAlignment="Left" Margin="19,249,0,0" VerticalAlignment="Top"/>
+                <Button x:Name="button_selectPath2" Content="..." HorizontalAlignment="Left" Margin="92,61,0,0" VerticalAlignment="Top" Width="25" Click="Button_selectPath2_Click"/>
+                <Label x:Name="label4" Content="配置:" HorizontalAlignment="Left" Margin="3,133,0,0" VerticalAlignment="Top"/>
+                <Label x:Name="label5" Content="输出                  条自动输出到下一个文件" HorizontalAlignment="Left" Margin="19,278,0,0" VerticalAlignment="Top"/>
+                <TextBox x:Name="textBox_filelength" HorizontalAlignment="Left" Height="23" Margin="55,280,0,0" TextWrapping="Wrap" Text="50000" VerticalAlignment="Top" Width="55" HorizontalContentAlignment="Right" VerticalContentAlignment="Center"/>
+                <Label x:Name="label6" Content="图片目录名称:" HorizontalAlignment="Left" Margin="19,312,0,0" VerticalAlignment="Top"/>
+                <TextBox x:Name="textBox_imgdirname" HorizontalAlignment="Left" Height="23" Margin="114,312,0,0" TextWrapping="Wrap" Text="img" VerticalAlignment="Top" Width="135" VerticalContentAlignment="Center"/>
+                <Label x:Name="label7" Content="请在这里输入绝对路径，程序支持拖放" HorizontalAlignment="Left" Margin="122,0,0,0" VerticalAlignment="Top"/>
+                <Image x:Name="image" HorizontalAlignment="Left" Height="100" Margin="350,192,0,0" VerticalAlignment="Top" Width="100" Source="pack://siteoforigin:,,,/Resources/p3.jpg" Stretch="UniformToFill"/>
+            </Grid>
+        </Border>
+
+    </Grid>
+</Window>
