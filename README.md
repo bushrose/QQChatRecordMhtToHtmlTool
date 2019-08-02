@@ -1,4 +1,5 @@
-#QQ消息记录导出的Mht格式转Html
+##QQ消息记录导出的Mht格式转Html
+***
 
 图形GUI版下载地址
 https://github.com/a645162/QQChatRecordMhtToHtmlTool/blob/master/QQMhtToHtml_GUI.exe?raw=true
@@ -20,7 +21,7 @@ macOS下使用.net Core
     你我的29541条消息我都保存下来了。存到了我的iCloud永远保存。
     美好的回忆。希望你将来是个善良的人。
 
-###介绍
+##介绍
 
     我即将大二，我是一直在备份我的qq消息记录的整个文件夹，从2011到现在，每次导出记录都是导出成bak文件，导出mht文件的话，你可以直接使用浏览器查看，非常的方便，不需要打开qq，我这种macOS做主力操作系统的人太适合了，偶尔回顾一下某个重要的人或者曾经是重要的人的聊天记录，在合适不过了。
 
@@ -28,10 +29,10 @@ macOS下使用.net Core
 
     网上推荐的2009年出的软件mht2html对于这种大文件还是会报错，直到我在CSDN上看到number321大神的这段代码，如是说，要让我写，我还真没耐心。
 
-###截图
+##截图
 ![截图](https://github.com/a645162/QQChatRecordMhtToHtmlTool/raw/master/pic/Main.png)
 
-###使用方法
+##使用方法
 
     Windows
 
@@ -59,14 +60,15 @@ macOS下使用.net Core
     2.
     dotnet QQMhtToHtml_dNetCore_macOS.dll QQ记录.mht gethtml
 
-###从聊天记录导出mht的方法
+##从聊天记录导出mht的方法
+
     打开qq的消息管理器
     要导出的好友那里右键
 ![P1](https://github.com/a645162/QQChatRecordMhtToHtmlTool/raw/master/pic/p1.png)
 ![P2](https://github.com/a645162/QQChatRecordMhtToHtmlTool/raw/master/pic/p2.png)
 
 
-###声明
+##声明
 
     本程序核心代码来自CSDN的number321大神
 
